@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:3:7-33
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:8:2-68
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:8:19-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:9:2-68
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:9:19-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:10:2-62
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:10:19-59
+uses-feature#android.hardware.camera
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:11:2-57
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:11:16-54
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:12:2-94
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:12:19-75
+application
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:14:5-24:19
+	android:label
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:14:48-80
+	android:icon
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:14:18-47
+activity#com.meowme.camerarecorder.CameraRecorder
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:16:19-51
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:15:19-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:19:27-74
+service#com.meowme.camerarecorder.RecorderService
+ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:23:3-71
+	android:name
+		ADDED from C:\Users\mrmer\Downloads\CameraRecorder-master\CameraRecorder-master\app\src\main\AndroidManifest.xml:23:12-68

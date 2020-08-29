@@ -1,0 +1,69 @@
+[
+    {
+        "outputFile": "C:\\Users\\mrmer\\Downloads\\CameraRecorder-master\\CameraRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\mrmer\\Downloads\\CameraRecorder-master\\CameraRecorder-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 53,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "C:\\Users\\mrmer\\Downloads\\CameraRecorder-master\\CameraRecorder-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 39,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\mrmer\\Downloads\\CameraRecorder-master\\CameraRecorder-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 39,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 37,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "C:\\Users\\mrmer\\Downloads\\CameraRecorder-master\\CameraRecorder-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 37,
+                        "endOffset": 225
+                    }
+                }
+            }
+        ]
+    }
+]
